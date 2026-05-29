@@ -1,3 +1,5 @@
+# A/B Testing Subscription Conversion Case Study
+
 This project analyzes an A/B test for a subscription screen.
 
 The business question was simple:
@@ -20,7 +22,7 @@ The dataset contains user-level A/B test data with the following fields:
 - `test_group` — test group, either `a` or `b`
 - `conversion` — conversion result, where `1` means converted and `0` means not converted
 
-The timestamps in the dataset are historical sample dates from July 2023.  
+The timestamps in the dataset refer to historical dates from July 2023.  
 They are used as part of a structured A/B testing case study focused on conversion analysis, statistical validation and business decision-making.
 
 ## Tools Used
